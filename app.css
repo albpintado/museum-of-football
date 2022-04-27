@@ -1,0 +1,45 @@
+body {
+  background-color: #d5f5d6;
+  font-family: Nunito, sans-serif;
+}
+
+#main-navbar {
+  font-size: 1.5rem;
+  background-color: #d5f5d6;
+}
+
+#main-navbar .navbar-brand {
+  color: #1ca70a;
+  font-size: 1.5rem;
+}
+
+#main-navbar .nav-link {
+  color: black;
+}
+
+#main-navbar .nav-link:hover {
+  color: #1ca70a;
+}
+
+#first-column h1 span {
+  color: #1ca70a;
+}
+
+h1 {
+  font-weight: 300;
+  font-size: 2.5rem;
+}
+
+i {
+  font-size: 3rem;
+  color: #1ca70a;
+}
+
+div section h2 {
+  font-weight: 300;
+}
+
+p.lead {
+  font-size: 1rem;
+  color: rgb(50, 50, 50);
+}
